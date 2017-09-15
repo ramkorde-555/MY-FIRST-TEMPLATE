@@ -1,0 +1,47 @@
+//1. Here's the bg color editor
+
+.bg_color
+{
+background-color : #dddddd;
+}
+
+
+//2. Here's the bg image editor
+
+.bg_image
+{
+background-image: url(#);
+}
+
+//3. Here's the text color editor
+
+.txt_color
+{
+color: #dddddd;
+}
+
+//4. Here's the text alignment editor
+
+.txt_align
+{
+text-align : ;
+}
+
+//5. Here's the removal of underline from links
+
+.txt_dec
+{
+text-decoration : none;
+}
+
+//6. Here's the line height editor
+.lh
+{
+line-height: 1.2;
+}
+
+//7. Here's the text shadow editor
+.txt-sw
+{
+text-shadow: 0px, 0px, #dddddd ;
+}
